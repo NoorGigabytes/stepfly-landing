@@ -9,7 +9,7 @@ function App() {
       <div className="pt-20 bg-slate-800">
         <Navbar />
         <Routes>
-          <Route path="/" element={<Home />}/>
+          <Route path="/stepfly-landing/" element={<Home />}/>
         </Routes>
         <Footer />
       </div>
