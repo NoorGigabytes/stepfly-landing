@@ -1,5 +1,4 @@
 import React from 'react';
-import { HiArrowLongRight, HiArrowLongDown } from "react-icons/hi2";
 import Accordion from './includes/Accordion';
 import TestimonialSlider from './includes/TestimonialSlider';
 
